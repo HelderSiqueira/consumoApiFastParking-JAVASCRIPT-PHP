@@ -9,8 +9,8 @@
 - HTML
 - CSS
 - JavaScript
--PHP
--MYSQL
+- PHP
+- MYSQL
 
 ## Autor
 
